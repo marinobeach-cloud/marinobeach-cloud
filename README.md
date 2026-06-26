@@ -10,7 +10,7 @@ As a technical leader, I bridge the gap between strategic vision and robust engi
 
 💻 Fullstack Software Engineering & Backend
 
-Backend & Fullstack: Next.js, Python (Flask), Java (Spring Boot)
+Backend & Fullstack: Python (Flask), Java (Spring Boot), Next.js
 
 Frontend: JavaScript, TypeScript, React JS
 
@@ -42,8 +42,8 @@ I firmly believe that true mastery comes from sharing knowledge. In my spare tim
 
 I'm always open to discussing tech leadership, software architecture, cloud security, agile methodologies, or potential collaborations.
 
-💼 LinkedIn: linkedin.com/in/sergio-marino-congosto
+💼 LinkedIn: [linkedin.com/in/sergio-marino-congosto](https://www.linkedin.com/in/sergio-marino-congosto-760a14155/)
 
 📧 Email: marinobeach@gmail.com
 
-🌐 Private Tutoring: clases-programacion.com
+🌐 Private Tutoring: [clases-programacion.com](https://clases-programacion.com)
